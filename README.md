@@ -1,6 +1,6 @@
 # SnapExpense
 
-A new Flutter project. I started this project for recording what you've spend in a incredibly fast and easy way with your phone.
+A new Flutter project. I started this project to record what you have spent in an incredibly fast and easy way using your phone since I still unemployed.
 
 ## Getting Started
 
