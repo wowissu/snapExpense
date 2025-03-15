@@ -1,6 +1,6 @@
-# counting
+# SnapExpense
 
-A new Flutter project.
+A new Flutter project. I started this project for recording what you've spend in a incredibly fast and easy way with your phone.
 
 ## Getting Started
 
